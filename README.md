@@ -4,6 +4,14 @@
 
 I am a passionate **Software Engineer** with strong expertise in **Full Stack Development** and **Computer Science Fundamentals**. I love solving challenging problems, building scalable applications, and contributing to open-source projects.  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sumit-Dev35&label=Profile%20views&color=0e75b6&style=flat)  
+
+---
+
+## 🏆 GitHub Trophies  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sumit-Dev35&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7)  
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -64,6 +72,12 @@ I am a passionate **Software Engineer** with strong expertise in **Full Stack De
 ![Sumit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit-Dev35&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Dev35&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sumit-Dev35&theme=radical)  
+
+---
+
+## 🐍 Contribution Graph  
+
+![snake gif](https://github.com/Sumit-Dev35/Sumit-Dev35/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
