@@ -77,7 +77,8 @@ I am a passionate **Software Engineer** with strong expertise in **Full Stack De
 
 ## 🐍 Contribution Graph  
 
-![snake gif](https://github.com/Sumit-Dev35/Sumit-Dev35/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/Sumit-Dev35/Sumit-Dev35/blob/output/snake.svg)
+ 
 
 ---
 
